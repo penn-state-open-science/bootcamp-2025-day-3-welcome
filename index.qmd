@@ -1,0 +1,31 @@
+---
+title: "Open Scholarship Bootcamp 2025"
+subtitle: "Welcome to Day 3"
+author: "Rick Gilmore & Alaina Pearce"
+---
+
+## {background-image="include/img/bootcamp-flyer.png"}
+
+## Agenda
+
+- Announcements
+- Today's schedule
+
+## Logistics
+
+:::: {.columns}
+::: {.column width=50%}
+- *New locations*: Reading room near Starbucks & Foster Auditorium
+- *New entrance*: Off Curtain Road
+:::
+::: {.column width=50%}
+![](https://penn-state-open-science.github.io/bootcamp-2025/include/img/pattee-paterno-entrance.png){fig-align="center"}
+:::
+::::
+
+## Schedule
+
+- [Thursday, August 14](https://penn-state-open-science.github.io/bootcamp-2025/day-2.html){preview-link="true"}
+
+---
+

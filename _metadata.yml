@@ -1,0 +1,18 @@
+format:
+  revealjs:
+    footer: "[Open Scholarship Bootcamp 2025 • Day 3](https://penn-state-open-science.github.io/bootcamp-2025/day-3.html) | © 2025 by Rick Gilmore under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)"    
+    slide-number: true
+    fig-align: center
+    logo: https://brand.psu.edu/images/backgrounds/penn-state-shield.jpg
+    bibliography: [include/bib/open-sci.bib, include/bib/bootcamp-2025.bib]
+    csl: include/bib/apa.csl
+    code-fold: true
+    code-tools: true
+    chalkboard: true
+    theme: [serif, include/css/psu.scss]
+    mainfont: roboto
+    link-external-icon: true
+    citations-hover: false
+knitr:
+  opts_chunk:
+    fig.path: include/fig/ 
